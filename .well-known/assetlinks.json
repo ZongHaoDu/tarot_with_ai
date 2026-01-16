@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.zonghaodu.twa",
+      "sha256_cert_fingerprints": [
+        "EF:7E:66:C9:69:87:73:D8:79:65:7F:5E:9A:1C:AD:5E:93:93:47:DF:01:9C:EE:2F:35:FC:88:A8:71:A6:E7:5F"
+      ]
+    }
+  }
+]
