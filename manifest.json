@@ -1,0 +1,16 @@
+{
+  "name": "AI 靈性塔羅",
+  "short_name": "AI 塔羅",
+  "start_url": "https://zonghaodu.github.io/tarot_with_ai/",
+  "display": "standalone",
+  "background_color": "#1a1a2e",
+  "theme_color": "#cd9d5d",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
